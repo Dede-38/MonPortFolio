@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contactez moi !</title>
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/colors.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+</head>
+<body>
+  <div class="main-container">
+    <div class="aside">
+      <div class="logo">
+        <a href="index.html"><span>Dede's</span></a>
+      </div>
+      <ul class="nav">
+        <li><a href="index.html"><i class="fa fa-home"></i> Home</a></li>
+        <li><a href="projets.html"><i class="fa fa-user"></i> About Me</a></li>
+        <li><a href="#"><i class="fa fa-list"></i> Services</a></li>
+        <li><a href="#"><i class="fa fa-briefcase"></i> Portfolio</a></li>
+        <li><a href="Contact.html"><i class="fa fa-comments"></i> Contact</a></li>
+      </ul>
+    </div>
+
+    <div class="main-content">
+      <section class="contact section">
+        <div class="container">
+          <div class="row">
+            <div class="section-title padd-15">
+              <h2>Me Contacter</h2>
+            </div>
+          </div>
+          <div class="row">
+            <form   action="https://formspree.io/f/mgvkjrva" method="POST" class="contact-form padd-15">
+              <div class="form-group">
+                <label>Nom</label>
+                <input type="text" name="nom" required />
+              </div>
+              <div class="form-group">
+                <label>Email</label>
+                <input type="email" name="email" required />
+              </div>
+              <div class="form-group">
+                <label>Message</label>
+                <textarea name="message" rows="6" required></textarea>
+              </div>
+              <button type="submit" class="btn">Envoyer</button>
+            </form>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</body>
+</html>

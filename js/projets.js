@@ -76,6 +76,66 @@ const projets = [
 },
 
 {
+  id: "SAE2.01256",
+  titre: "SAE2.01256 - Méga SAE",
+  image: "images/SAE2.0156.png",
+  tags: ["Projet en Groupe "] ["IUT2"],
+  description: [
+
+    "<strong>Mon Projet :</strong> Prochainement",
+
+   ]
+},
+
+{
+  id: "SAE2.03",
+  titre: "SAE2.03 Installation de services réseau",
+  image: "images/SAE2.03.png",
+  tags: ["Travail Individuel"] ["IUT2"],
+  description: [
+
+    "<strong>Mon Projet :</strong> Prochainement",
+
+   ]
+},
+
+{
+  id: "SAE2.04",
+  titre: "SAE2.04 Exploitation d’une base de données",
+  image: "images/SAE2.04.png",
+  tags: ["Travail en Binôme"] ["IUT2"] ,
+  description: [
+
+    "<strong>Mon Projet :</strong> Prochainement",
+
+   ]
+},
+
+{
+  id: "SAE3.01",
+  titre: "SAE 3.01 Création et déploiement de services applicatifs/Développement d'une application",
+  image: "images/SAE3.01.png",
+  tags: ["Travail en Groupe"] ["IUT2"] ,
+  description: [
+
+    "<strong>Mon Projet :</strong> Prochainement",
+
+   ]
+},
+
+{
+  id: "SAE4.01",
+  titre: "SAE 4.Real.01 Développement d'une application complexe",
+  image: "images/SAE4.01.png",
+  tags: ["Travail en Groupe"] ["IUT2"] ,
+  description: [
+
+    "<strong>Mon Projet :</strong> Prochainement",
+
+   ]
+},
+
+{
   id: "Stage",
   titre: "Stage à rfidees - developpement embarqué d'un robot médical : Ral Stainer",
   image: "images/Stage.png",
@@ -95,7 +155,7 @@ const projets = [
   tags: ["Projet Personnel", "Site Web", " Travail d'équipe "],
   description: [
 
-    "<strong>Mon Projet :</strong> Developpement embarqué d'un robot médical pour l’analyse de sang via des capteurs d’eau - Ral Stainer",
+    "<strong>Mon Projet :</strong> Réalisation d'un site web pour mon équipe esport avec une partie administration en php sur serveur",
 
    ]
 },
@@ -110,7 +170,23 @@ const projets = [
     "<strong>Mon Projet :</strong> Remettre à niveau le site web de mon club de tennis de table ",
 
    ]
+},
+
+{
+  id: "Jarvis",
+  titre: "Jarvis - Assistant IA pour ordinateur",
+  image: "images/Jarvis.png",
+  tags: ["Projet en Bînome"],
+  description: [
+
+    "<strong>Mon Projet :</strong> Prochainement",
+
+   ]
 }
+
+
+
+
 
 
 ];

@@ -78,8 +78,8 @@ const projets = [
 {
   id: "SAE2.01256",
   titre: "SAE2.01256 - Méga SAE",
-  image: "images/SAE2.0156.png",
-  tags: ["Projet en Groupe "] ["IUT2"],
+  image: "images/SAE2.01256.png",
+  tags: ["Projet en Groupe IUT2"],
   description: [
 
     "<strong>Mon Projet :</strong> Prochainement",
@@ -91,7 +91,7 @@ const projets = [
   id: "SAE2.03",
   titre: "SAE2.03 Installation de services réseau",
   image: "images/SAE2.03.png",
-  tags: ["Travail Individuel"] ["IUT2"],
+  tags: ["Travail Individuel IUT2"],
   description: [
 
     "<strong>Mon Projet :</strong> Prochainement",
@@ -103,7 +103,7 @@ const projets = [
   id: "SAE2.04",
   titre: "SAE2.04 Exploitation d’une base de données",
   image: "images/SAE2.04.png",
-  tags: ["Travail en Binôme"] ["IUT2"] ,
+  tags: ["Travail en Binôme IUT2"] ,
   description: [
 
     "<strong>Mon Projet :</strong> Prochainement",
@@ -115,7 +115,7 @@ const projets = [
   id: "SAE3.01",
   titre: "SAE 3.01 Création et déploiement de services applicatifs/Développement d'une application",
   image: "images/SAE3.01.png",
-  tags: ["Travail en Groupe"] ["IUT2"] ,
+  tags: ["Travail en Groupe IUT2"] ,
   description: [
 
     "<strong>Mon Projet :</strong> Prochainement",
@@ -125,9 +125,9 @@ const projets = [
 
 {
   id: "SAE4.01",
-  titre: "SAE 4.Real.01 Développement d'une application complexe",
+  titre: "SAE4.01 Développement d'une application complexe",
   image: "images/SAE4.01.png",
-  tags: ["Travail en Groupe"] ["IUT2"] ,
+  tags: ["Travail en Groupe IUT2"] ,
   description: [
 
     "<strong>Mon Projet :</strong> Prochainement",

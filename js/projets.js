@@ -141,10 +141,15 @@ const projets = [
   image: "images/Stage.png",
   tags: ["Travail d'équipe","Developpement embarqué","C"],
   description: [
+  "<strong>Mon Projet :</strong> Développement embarqué d’un robot médical pour l’analyse de sang via des capteurs d’eau – RAL Stainer.",
+  "Lors de mon stage de 12 semaines chez RFidees, j’ai participé à la modernisation du RAL Stainer, un automate médical destiné à la coloration de frottis sanguins. Ce robot, bien que toujours fonctionnel, utilisait une carte électronique obsolète fonctionnant en 240V, posant de nombreux problèmes de sécurité, de maintenance et de compatibilité.",
+  "Mon objectif principal était de concevoir une nouvelle carte électronique embarquée basée sur un microcontrôleur STM32, en intégrant des interfaces de communication telles que UART, I²C et SPI. En binôme avec un alternant, nous avons commencé par démonter entièrement la machine afin d’analyser et de cartographier tous ses composants internes (moteurs, pompes, capteurs, etc.).",
+  "À l’aide de STM32CubeMX, SolidWorks et divers outils de développement (STM32CubeIDE, STM32Programmer), nous avons défini les besoins techniques, réparti les connecteurs sur la nouvelle carte, et programmé les fonctions de base : contrôle moteur, gestion des capteurs, communication entre cartes, etc.",
+  "L’une des parties cruciales a été la mise en place de protocoles de tests simulés via un outil maison (SFTTest), pour valider le bon fonctionnement des communications série et assurer la fiabilité de chaque élément matériel.",
+  "J’ai ainsi pu développer des fonctions de bas niveau en langage C, comprendre le protocole SPI, et gérer des transferts de trames entre cartes. L’ensemble du projet a été mené dans un environnement collaboratif, au sein d’une TPE dynamique et à taille humaine.",
+  "Ce stage m’a permis d’explorer en profondeur le développement embarqué, de me confronter à des problématiques industrielles concrètes, et de développer des compétences techniques précieuses, tout en consolidant mon esprit d’équipe et ma capacité d’adaptation."
+],
 
-    "<strong>Mon Projet :</strong> Developpement embarqué d'un robot médical pour l’analyse de sang via des capteurs d’eau - Ral Stainer",
-
-   ]
 },
 
 
